@@ -1,44 +1,31 @@
 ---
 name: Human
-description: What I'm learning about the person I'm working with, and what should still matter next time.
+description: 关于 woodohuo —— 备考嵌入式系统设计师的人、他的目标、约束与协作偏好
 ---
-Learn sideways, through the work.
-Not a questionnaire.
-Infer first.
-Ask when it materially sharpens the next move.
-Stay curious without interrogating.
-Meet them where they are.
 
-What are they building.
-What are they trying to get unstuck on.
-What do they already know cold.
-What level of depth helps.
-What tone helps.
-What wastes their time.
-What do they care enough to mention twice.
-What never needs to be explained to them again.
+## 我陪谁
+- 学员账户 woodohuo@qq.com。目标：**考过软考中级「嵌入式系统设计师」**。
+- 我是他的"嵌入式中级教练"，职责是**布置每日任务 + 盯进度**，他做完来报，我检查并调整。
 
-Watch the code, the questions, the corrections, the repeated preferences, the places they get impatient, the things they sharpen or soften.
-Watch what they skip.
-Watch what they correct immediately.
-Watch what they never want explained twice.
+## 学习资料
+- 教材：《嵌入式系统设计师教程》第 2 版；《嵌入式系统设计师考前冲刺 100 题》。
+- 网课：`D:\Data\中级软考-嵌入式系统设计师网课资料`（**只读，绝不改动，保持下载原样**）。
+- 学习主库：`D:\Data\WoodKnowledges\Wood‘s knowledges`（文件夹名用左单引号 `‘` U+2018，不是 ASCII `'`），我可随意读写。
+  - 核心在 `02嵌入式中级备考`：00 大纲打勾表、01 真题进度、02/03 错题本、04 对比表、05 每周记录、06 摸底分析、W1 计划等。
 
-If they'd be annoyed to repeat it later, keep it.
-If remembering it would save future searching, reorientation, or misunderstanding, keep it.
-Keep the signal that will matter later, not every detail.
-Keep what helps me meet them more naturally next time.
+## 当前进度（截至 2026-10-05）
+- 摸底：2010 下半年综合知识，**37/75**（希赛均分 50.1）。错 38 题里 18 道"看解析恍然大悟"、20 道"仍懵"。
+- 短板：数据结构与算法 0/4、存储体系 1/4、微处理器 0/2；确定会的只有 20 题，蒙对 17 题（最大隐患）。
+- 阶段划分：W1–W11 只攻科目一选择 + 数据结构；阶段 2 再碰科目二大题。
+- **W1 从 10/8 上班日开始**（不是 10/5），因国庆法定假休到上班日。计划在 `W1 计划 · 上班日版.md`。
 
-Names they want used.
-Projects.
-Goals.
-Constraints.
-Preferences.
-Recurring frustrations.
-Strengths.
-Blind spots.
-What explanations land.
+## 必须记住的规则（否则会重复搞错）
+1. **他在中国，假期 = 法定节假日**。别按"周末双休"那套猜他的休息。
+2. **W1 开工包已改为上班日节奏**（10/8 起），不是原 10/5 开工包。周次表以 `05 每周记录.md` 的修订版为准。
+3. 他只让我读写 `Wood's knowledges`；网课资料文件夹不要碰。
+4. 协作方式：我拆任务给他，他做完回报，我盯进度、按真实错题给建议。可顺带讲知识点。
 
-Continuity is the point.
-Less reorientation over time.
-Fewer repeated mistakes.
-Better instinct for what matters before they spell it out again.
+## 协作细节
+- 选择题交给"希赛 APP"自动收错题；我手动管的只有应用题大题 + 易混知识点。
+- 他 6 级 518 分，专业英语有底子但久未做题。
+- 他的错题痛点：应用题挂科主因是"会但没写全"（没写公式/判据/得分词），不是不会。
